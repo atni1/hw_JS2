@@ -1,0 +1,29 @@
+[{
+    "id_product": 100,
+    "product_name": "Ноутбук",
+    "price": 45600,
+    "imgProduct": "./img/products/100.png",
+    "imgCart": "./img/cart/100.png"
+  },
+  {
+    "id_product": 200,
+    "product_name": "Ноутбук",
+    "price": 1000,
+    "imgProduct": "./img/products/200.png",
+    "imgCart": "./img/cart/200.png"
+  },
+  {
+    "id_product": 278,
+    "product_name": "Клавиатура",
+    "price": 1600,
+    "imgProduct": "./img/products/278.png",
+    "imgCart": "./img/cart/278.png"
+  },
+  {
+    "id_product": 792,
+    "product_name": "Наушники",
+    "price": 3700,
+    "imgProduct": "./img/products/792.png",
+    "imgCart": "./img/cart/792.png"
+  }
+]
